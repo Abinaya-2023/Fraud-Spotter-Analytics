@@ -1,9 +1,9 @@
 *{
     padding: 5;
     margin: 10;
+    left-margin: 1rem;
     box-sizing: border-box;
     font-family: 'Josefin Sans', sans-serif;
-    list-style: none;
     text-decoration: none;
 }
 
@@ -21,6 +21,6 @@ body{
     }
 
 li::marker{
-        color: red;
+        color: black;
     }
 
